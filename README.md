@@ -16,14 +16,12 @@
   "socials": {
     "mastodon": "@3kh0@defcon.social",
     "steam": "steamcommunity.com/id/3kh0_"
-    "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net", "3kh0@proton.me"],
+    "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net"],
     "discord": {
       "server": "https://discord.gg/3kh0",
       "username": "3kh0"
     },
     "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
-    "minecraft": "3kh0_",
-    "xboxlive": "Echo7781",
   },
   "certifications": ["A+ (Unoffical)"],
   "learning": "Security+",
