@@ -10,7 +10,7 @@
   "operatingSystem": "Kali Linux",
   "browser": "Firefox",
   "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
-  "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS", "Markdown"],
+  "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS"],
   "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john", "burpsuite", "wpscan", "traceroute", "hashcat"],
   "editor": "VSCodium",
   "socials": {
