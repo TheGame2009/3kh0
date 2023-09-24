@@ -17,10 +17,7 @@
     "mastodon": "@3kh0@defcon.social",
     "steam": "steamcommunity.com/id/3kh0_"
     "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net"],
-    "discord": {
-      "server": "https://discord.gg/3kh0",
-      "username": "3kh0"
-    },
+    "discord": "3kh0",
     "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
   },
   "certifications": ["A+ (Unoffical)"],
