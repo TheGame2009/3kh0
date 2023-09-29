@@ -7,7 +7,7 @@
   "name": "Echo",
   "age": 14,
   "intrests": ["programming", "gaming", "foss software", "digital privacy"],
-  "operatingSystem": "Kali Linux",
+  "operatingSystem": "Linux Mint",
   "browser": "Firefox",
   "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
   "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS"],
@@ -26,5 +26,3 @@
 }
 ```
 <img src="https://komarev.com/ghpvc/?username=3kh0&label=Amount of eyeballs that saw this &color=001eff&style=flat" alt="3kh0" />
-
-*P.S. I am not taking job offers nor am I hiring any developers to work on anything.*
