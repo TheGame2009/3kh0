@@ -16,7 +16,7 @@
   "socials": {
     "mastodon": "@3kh0@defcon.social",
     "steam": "steamcommunity.com/id/3kh0_"
-    "emails": "echo-the-coder@tuta.io",
+    "email": "echo-the-coder@tuta.io",
     "discord": "3kh0"
   },
   "certifications": ["CompTIA A+"],
