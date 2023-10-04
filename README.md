@@ -17,11 +17,9 @@
     "mastodon": "@3kh0@defcon.social",
     "steam": "steamcommunity.com/id/3kh0_"
     "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net"],
-    "discord": "3kh0",
-    "spotify": "open.spotify.com/user/z3dlpi0cfntezy77ypqi8xass",
+    "discord": "3kh0"
   },
-  "certifications": ["A+ (Unoffical)"],
-  "learning": "Security+",
+  "certifications": ["CompTIA A+"],
   "hasBrainDamage": true
 }
 ```
