@@ -23,4 +23,4 @@
   "hasBrainDamage": true
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=3kh0&label=Amount of eyeballs that saw this &color=001eff&style=flat" alt="3kh0" />
+<img src="https://komarev.com/ghpvc/?username=3kh0&style=flat" alt="3kh0" />
