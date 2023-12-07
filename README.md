@@ -5,7 +5,7 @@
 ```json
 {
   "name": "Echo",
-  "age": 14,
+  "age": 15,
   "intrests": ["programming", "gaming", "foss software", "digital privacy"],
   "operatingSystem": "Linux Mint",
   "browser": "Firefox",
