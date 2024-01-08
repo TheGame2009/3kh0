@@ -2,25 +2,8 @@
 
 ### "It's not a bug, it's a feature" - Andrew Tanenbaum
 
-```json
-{
-  "name": "Echo",
-  "age": 15,
-  "intrests": ["programming", "gaming", "foss software", "digital privacy"],
-  "operatingSystem": "Linux Mint",
-  "browser": "Firefox",
-  "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
-  "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS"],
-  "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john", "burpsuite", "wpscan", "traceroute", "hashcat"],
-  "editor": "VSCodium",
-  "socials": {
-    "mastodon": "@3kh0@defcon.social",
-    "steam": "steamcommunity.com/id/3kh0_"
-    "email": "echo-the-coder@tuta.io",
-    "discord": "3kh0"
-  },
-  "certifications": ["CompTIA A+"],
-  "hasBrainDamage": true
-}
-```
+Welcome to my GitHub profile! Here I host *most* of my projects, you can see everything over at my website!
+
+> https://3kh0.net
+
 <img src="https://komarev.com/ghpvc/?username=3kh0&style=flat" alt="3kh0" />
